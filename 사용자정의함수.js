@@ -1,4 +1,4 @@
-	// 공백 제거 함수
+	// 공백 제거 함수	   > 2016-10-05
 	function trim(str) {
 	    str = input.replace(/(^\s*)|(\s*$)/, "");
 	    return str;
